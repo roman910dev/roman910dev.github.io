@@ -1,12 +1,12 @@
 {
-    "name": "frags",
-    "short_name": "frags",
+    "name": "Fragsy",
+    "short_name": "Fragsy",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "Frags mock app.",
-    "orientation": "portrait-primary",
+    "background_color": "#FFFFFF",
+    "theme_color": "#9800FF",
+    "description": "Fragsy Music",
+    "orientation": "any",
     "prefer_related_applications": false,
     "icons": [
         {
