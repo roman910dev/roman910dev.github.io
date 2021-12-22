@@ -74748,7 +74748,7 @@ m=$.bA
 i.dx=m!=null&&i.x===m.c
 q=6
 m=$.GP.ah()
-l=H.e(i.x)
+l=H.e(i.x)+".jpg"
 k=m.b
 m=m.a
 f=i
@@ -74767,7 +74767,7 @@ case 5:s=1
 break
 case 8:q=11
 m=$.Y_.ah()
-l=H.e(i.x)
+l=H.e(i.x)+".jpg"
 k=m.b
 m=m.a
 f=i
