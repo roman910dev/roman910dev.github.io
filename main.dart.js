@@ -4153,7 +4153,7 @@ case 13:q=16
 g=$.bA
 g.toString
 f=$.Y_.ah()
-l=$.bA.c
+l=$.bA.c+".jpg"
 k=f.b
 f=f.a
 b=g
